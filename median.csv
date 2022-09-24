@@ -1,0 +1,100 @@
+,Village,District,State,Latitude,Longitude,angle
+0,Khola,tehri,UK,30.41377,78.48595,-2.229
+1,Chakar Gaon,tehri,UK,30.53307,78.794472,-1.127
+2,Anarpa,Nainital,UK,29.444756,79.695004,-11.247
+3,Bamanswal,Almora,UK,29.58966,79.777477,4.570
+4,Sunari,Almora,UK,29.760016,79.630094,0.625
+5,Asaf nagar,Roorkee,UK,29.840316,77.901371,0.001
+6,Eda,Chamoli,UK,30.159745,79.439877,7.739
+7,Danda Gaon,Danda Gaon,UK,30.336797,78.171163,21.543
+8,Dhurapauri,Pauri Garhwal,UK,29.85723,78.444403,0.584
+9,Gagalasi,TehriGarhwal,UK,30.091004,78.471792,13.452
+10,Malethi,Pauri Garhwal,UK,30.034563,78.754014,10.667
+11,Sarpole,Tehri,UK,30.452723,78.823205,8.895
+12,Dhungali,Tehri,UK,30.399254,78.333271,-5.324
+13,Jogeda Walla,Pauri,UK,29.694155,79.034645,-4.082
+14,Bhandar,Pauri,UK,29.67473,79.147769,-4.097
+15,Bheta,Almora,UK,29.818633,79.633366,-3.187
+16,Chira,Almora,UK,29.454401,79.830802,4.311
+17,Harinagar Akshora,Nainital,UK,29.401402,79.613971,2.641
+18,gauraiya,rudraprayad,UK,30.719326,79.064038,-1.008
+19,mukhawa,uttarkahsi,UK,31.045426,78.795628,1.144
+20,monda,uttarkashi,UK,31.107107,77.935317,12.236
+21,bhimlli talli,pauri,UK,30.092956,78.780856,8.419
+22,ghaniywala ,almora,UK,29.848362,79.251374,-2.367
+23,jhriyan grunt,haridwar,UK,29.991424,77.910861,0.106
+24,kandhauli,dehradun,UK,30.373266,77.952839,4.685
+25,Jahanpur,UP,UP,28.169907,77.909557,-0.163
+26,daudganj,etah,UP,27.468696,79.165054,-0.240
+27,nagasi,UP,UP,27.721653,79.318286,0.094
+28,basai,UP,UP,27.152735,78.055035,0.034
+29,dharmapur,UP,UP,25.748407,82.73752,-0.856
+30,raipura,shajhanpur,UP,25.241053,81.128584,-0.787
+31,hathela wazidpur,UP,UP,27.971228,80.16868,0.186
+32,Jijaul,UP,UP,27.79695,79.119899,-0.256
+33,kangawan,Barailey,UP,28.341557,79.840302,0.010
+34,behta damber nagar,Badaun,UP,27.906568,79.165305,-0.057
+35,hathnakhurd,jalaun,UP,26.246561,79.438473,2.176
+36,sakra,balrampur,UP,26.823226,80.748893,
+37,kaithwaliya,siddharthnagar,UP,26.851039,82.962259,
+38,dalampur,meerut,UP,29.015449,77.506134,
+39,kishanpura,meerut,UP,28.973202,77.670899,
+40,bagarpur,bijnore,UP,28.173788,79.120084,
+41,karikeri,bellary,karnataka,15.367355,76.779821,
+42,telugalubu,bellary,karnataka,15.062719,76.370429,
+43,enigi,bellary,karnataka,15.140074,76.064409,
+44,allapur,dharwad,karnataka,16.792953,76.394584,
+45,yattinhalli,haveri,karnataka,14.728743,75.664408,
+46,nerlahalli,chitradurga,karnataka,14.660741,76.709867,
+47,nichpura,davanagare,karnataka,14.783139,76.056534,
+48,Pallipale,Guntur,AP,16.760768,82.188037,
+49,Duvvali,Prakasam,AP,15.971654,79.357299,
+50,Valiveru,Guntur,AP,16.199899,80.592225,
+51,Orvakal,Kurnool,AP,15.684041,78.176785,
+52,Adavaram,Chittoor,AP,13.57029,79.683542,
+53,Gumparu,AP,AP,16.534668,81.831579,
+54,T Sadum,Anantapur,AP,13.68117,78.095968,
+55,Vanduva,Srikakulam,AP,18.655536,83.668008,
+56,Konetirajupalem,Nellore,AP,13.92909,79.800325,
+57,Valasapalle,Y S R Kadapa,AP,13.523878,78.554322,
+58,Rajavaram,Krishna,AP,17.047724,81.379057,
+59,Gandlapenta,Nellore,AP,14.10376,78.268834,
+60,Koligam,Srikakulam,AP,19.125881,84.611184,
+61,Pullita,Srikakulam,AP,18.465838,83.741631,
+62,Arivemula,Prakasam,AP,15.208303,79.245955,
+63,Alur,Anantapur,AP,15.394707,77.228511,
+64,Nallamilli,East Godavari,AP,17.008668,82.018143,
+65,Porlu,Vishakhapatnam,AP,18.139538,83.029578,
+66,Musiram,Vizianagram,AP,17.927466,83.124778,
+67,Nellibanda,Kurnool,AP,15.626157,77.62844,
+68,Nandikotkur,Kurnool,AP,15.85659,78.264808,
+69,Vendra,East Godavari,AP,16.583817,81.590541,
+70,Gollaguden,West Godavari,AP,16.870979,81.36834,
+71,Kollipeta,Vizianagram,AP,18.374408,83.771534,
+72,Neelakantapuram,Prakasam,AP,18.662493,83.39978,
+73,Kasba Tal,Vidisha,MP,24.16102,77.851456,
+74,Majghuban,Sagar,MP,24.917051,80.80307,
+75,sirnota,vidisha,MP,23.797568,78.093676,
+76,jamuniya mal,damoh,mp,21.806783,78.890975,
+77,madiya,damoh,mp,23.90858,78.295821,
+78,koluwa jagir,vidisha,mp,23.571392,78.225758,
+79,ghatwa,vidisha,mp,22.073882,75.340671,
+80,sidguwan,sagar,mp,23.894315,78.842147,
+81,kanera,sagar,mp,23.731135,77.32573,
+82,jagrai kalan,sagar,mp,24.180194,78.335615,
+83,sabdha,sagar,mp,24.197408,78.185989,
+84,lawajhir,ralaen,mp,23.316841,78.219428,
+85,dobhi,sagar,mp,23.115851,78.922026,
+86,budhanwada,ralsen,mp,23.130316,78.661672,
+87,jolanpur,sagar,mp,23.379476,78.646303,
+88,amla,betul,mp,21.926717,78.125946,
+89,nipania,betul,mp,22.75627,75.921694,
+90,laxmapuram,kurnool,mp,15.86596,78.403598,
+91,panari,sagar,mp,22.8835,78.941392,
+92,patkul,sagar,mp,22.415909,78.816115,
+93,bamana,sagar,mp,24.048155,79.068366,
+94,singhpur,damoh,mp,22.886119,79.187291,
+95,bamhor khera,sagar,mp,23.385067,78.774437,
+96,sanga khedi,vidisha,mp,22.929978,76.681797,
+97,alkhedi,sagar,mp,24.016858,78.302568,
+98,muhra,damoh,mp,23.546123,79.4604,
